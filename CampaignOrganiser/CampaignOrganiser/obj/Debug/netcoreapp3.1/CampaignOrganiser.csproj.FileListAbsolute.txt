@@ -1,0 +1,25 @@
+C:\Users\Andreas\Desktop\own project\CampaignOrganiser\CampaignOrganiser\bin\Debug\netcoreapp3.1\CampaignOrganiser.exe
+C:\Users\Andreas\Desktop\own project\CampaignOrganiser\CampaignOrganiser\bin\Debug\netcoreapp3.1\CampaignOrganiser.deps.json
+C:\Users\Andreas\Desktop\own project\CampaignOrganiser\CampaignOrganiser\bin\Debug\netcoreapp3.1\CampaignOrganiser.runtimeconfig.json
+C:\Users\Andreas\Desktop\own project\CampaignOrganiser\CampaignOrganiser\bin\Debug\netcoreapp3.1\CampaignOrganiser.runtimeconfig.dev.json
+C:\Users\Andreas\Desktop\own project\CampaignOrganiser\CampaignOrganiser\bin\Debug\netcoreapp3.1\CampaignOrganiser.dll
+C:\Users\Andreas\Desktop\own project\CampaignOrganiser\CampaignOrganiser\bin\Debug\netcoreapp3.1\CampaignOrganiser.pdb
+C:\Users\Andreas\Desktop\own project\CampaignOrganiser\CampaignOrganiser\obj\Debug\netcoreapp3.1\CampaignOrganiser.csprojAssemblyReference.cache
+C:\Users\Andreas\Desktop\own project\CampaignOrganiser\CampaignOrganiser\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Andreas\Desktop\own project\CampaignOrganiser\CampaignOrganiser\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Andreas\Desktop\own project\CampaignOrganiser\CampaignOrganiser\obj\Debug\netcoreapp3.1\CampaignOrganiser_MarkupCompile.cache
+C:\Users\Andreas\Desktop\own project\CampaignOrganiser\CampaignOrganiser\obj\Debug\netcoreapp3.1\CampaignOrganiser_MarkupCompile.lref
+C:\Users\Andreas\Desktop\own project\CampaignOrganiser\CampaignOrganiser\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Andreas\Desktop\own project\CampaignOrganiser\CampaignOrganiser\obj\Debug\netcoreapp3.1\CampaignOrganiser.g.resources
+C:\Users\Andreas\Desktop\own project\CampaignOrganiser\CampaignOrganiser\obj\Debug\netcoreapp3.1\CampaignOrganiser.AssemblyInfoInputs.cache
+C:\Users\Andreas\Desktop\own project\CampaignOrganiser\CampaignOrganiser\obj\Debug\netcoreapp3.1\CampaignOrganiser.AssemblyInfo.cs
+C:\Users\Andreas\Desktop\own project\CampaignOrganiser\CampaignOrganiser\obj\Debug\netcoreapp3.1\CampaignOrganiser.csproj.CoreCompileInputs.cache
+C:\Users\Andreas\Desktop\own project\CampaignOrganiser\CampaignOrganiser\obj\Debug\netcoreapp3.1\CampaignOrganiser.dll
+C:\Users\Andreas\Desktop\own project\CampaignOrganiser\CampaignOrganiser\obj\Debug\netcoreapp3.1\CampaignOrganiser.pdb
+C:\Users\Andreas\Desktop\own project\CampaignOrganiser\CampaignOrganiser\obj\Debug\netcoreapp3.1\CampaignOrganiser.genruntimeconfig.cache
+C:\Users\Andreas\Desktop\own project\CampaignOrganiser\CampaignOrganiser\bin\Debug\netcoreapp3.1\fbpic2.jpg
+C:\Users\Andreas\Desktop\own project\CampaignOrganiser\CampaignOrganiser\obj\Debug\netcoreapp3.1\PageSavageWorlds.g.cs
+C:\Users\Andreas\Desktop\own project\CampaignOrganiser\CampaignOrganiser\obj\Debug\netcoreapp3.1\PageSavageWorlds.baml
+C:\Users\Andreas\Desktop\own project\CampaignOrganiser\CampaignOrganiser\bin\Debug\netcoreapp3.1\lost colony 1.jpg
+C:\Users\Andreas\Desktop\own project\CampaignOrganiser\CampaignOrganiser\bin\Debug\netcoreapp3.1\DataSet1.xsd
+C:\Users\Andreas\Desktop\own project\CampaignOrganiser\CampaignOrganiser\bin\Debug\netcoreapp3.1\XMLSavage.xml

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<DataOverview>
+  <ruleset>
+    <name>Savage Worlds</name>
+    <rulesetId>1</rulesetId>
+    <campaing>
+      <name>Deadlands</name>
+      <campaingID>1</campaingID>
+      <adventures>
+        <adventure>
+          <name>The devils deal</name>
+          <adventureId>1</adventureId>
+          <description>Starts with a train robbery.</description>
+        </adventure>
+        <adventure>
+          <name>Meeting in the storm</name>
+          <adventureId>2</adventureId>
+          <description>People with different goals meet in a small village as a storm rage.</description>
+        </adventure>
+      </adventures>
+      <npcList>
+        <npc>
+          <name>Bob Hunter</name>
+          <npcId>1</npcId>
+          <apperance>Looks like an idiot</apperance>
+          <partOfAdventure>2</partOfAdventure>
+        </npc>
+      </npcList>
+    </campaing>
+    <campaing>
+      <name>Deadlands: Lost Colony</name>
+      <campaingID>2</campaingID>
+    </campaing>
+    <campaing>
+      <name>Rifts</name>
+      <campaingID>3</campaingID>
+    </campaing>
+  </ruleset>
+</DataOverview>

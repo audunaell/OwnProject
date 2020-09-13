@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSet1" targetNamespace="http://tempuri.org/DataSet1.xsd" xmlns:mstns="http://tempuri.org/DataSet1.xsd" xmlns="http://tempuri.org/DataSet1.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSet1" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DataSet1" msprop:Generator_UserDSName="DataSet1">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Rulesets" msprop:Generator_TableClassName="RulesetsDataTable" msprop:Generator_TableVarName="tableRulesets" msprop:Generator_TablePropName="Rulesets" msprop:Generator_RowDeletingName="RulesetsRowDeleting" msprop:Generator_RowChangingName="RulesetsRowChanging" msprop:Generator_RowEvHandlerName="RulesetsRowChangeEventHandler" msprop:Generator_RowDeletedName="RulesetsRowDeleted" msprop:Generator_UserTableName="Rulesets" msprop:Generator_RowChangedName="RulesetsRowChanged" msprop:Generator_RowEvArgName="RulesetsRowChangeEvent" msprop:Generator_RowClassName="RulesetsRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="RulesetID" msprop:Generator_ColumnVarNameInTable="columnRulesetID" msprop:Generator_ColumnPropNameInRow="RulesetID" msprop:Generator_ColumnPropNameInTable="RulesetIDColumn" msprop:Generator_UserColumnName="RulesetID" type="xs:string" minOccurs="0" />
+              <xs:element name="RulesetName" msprop:Generator_ColumnVarNameInTable="columnRulesetName" msprop:Generator_ColumnPropNameInRow="RulesetName" msprop:Generator_ColumnPropNameInTable="RulesetNameColumn" msprop:Generator_UserColumnName="RulesetName" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Campaings" msprop:Generator_TableClassName="CampaingsDataTable" msprop:Generator_TableVarName="tableCampaings" msprop:Generator_TablePropName="Campaings" msprop:Generator_RowDeletingName="CampaingsRowDeleting" msprop:Generator_RowChangingName="CampaingsRowChanging" msprop:Generator_RowEvHandlerName="CampaingsRowChangeEventHandler" msprop:Generator_RowDeletedName="CampaingsRowDeleted" msprop:Generator_UserTableName="Campaings" msprop:Generator_RowChangedName="CampaingsRowChanged" msprop:Generator_RowEvArgName="CampaingsRowChangeEvent" msprop:Generator_RowClassName="CampaingsRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="CampaingID" msprop:Generator_ColumnVarNameInTable="columnCampaingID" msprop:Generator_ColumnPropNameInRow="CampaingID" msprop:Generator_ColumnPropNameInTable="CampaingIDColumn" msprop:Generator_UserColumnName="CampaingID" type="xs:string" minOccurs="0" />
+              <xs:element name="RulesetID" msprop:Generator_ColumnVarNameInTable="columnRulesetID" msprop:Generator_ColumnPropNameInRow="RulesetID" msprop:Generator_ColumnPropNameInTable="RulesetIDColumn" msprop:Generator_UserColumnName="RulesetID" type="xs:string" minOccurs="0" />
+              <xs:element name="CampaingName" msprop:Generator_ColumnVarNameInTable="columnCampaingName" msprop:Generator_ColumnPropNameInRow="CampaingName" msprop:Generator_ColumnPropNameInTable="CampaingNameColumn" msprop:Generator_UserColumnName="CampaingName" type="xs:string" minOccurs="0" />
+              <xs:element name="GeneralInformation" msprop:Generator_ColumnVarNameInTable="columnGeneralInformation" msprop:Generator_ColumnPropNameInRow="GeneralInformation" msprop:Generator_ColumnPropNameInTable="GeneralInformationColumn" msprop:Generator_UserColumnName="GeneralInformation" type="xs:string" minOccurs="0" />
+              <xs:element name="Maps" msprop:Generator_ColumnVarNameInTable="columnMaps" msprop:Generator_ColumnPropNameInRow="Maps" msprop:Generator_ColumnPropNameInTable="MapsColumn" msprop:Generator_UserColumnName="Maps" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Creatures" msprop:Generator_TableClassName="CreaturesDataTable" msprop:Generator_TableVarName="tableCreatures" msprop:Generator_TablePropName="Creatures" msprop:Generator_RowDeletingName="CreaturesRowDeleting" msprop:Generator_RowChangingName="CreaturesRowChanging" msprop:Generator_RowEvHandlerName="CreaturesRowChangeEventHandler" msprop:Generator_RowDeletedName="CreaturesRowDeleted" msprop:Generator_UserTableName="Creatures" msprop:Generator_RowChangedName="CreaturesRowChanged" msprop:Generator_RowEvArgName="CreaturesRowChangeEvent" msprop:Generator_RowClassName="CreaturesRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="CreaturesID" msprop:Generator_ColumnVarNameInTable="columnCreaturesID" msprop:Generator_ColumnPropNameInRow="CreaturesID" msprop:Generator_ColumnPropNameInTable="CreaturesIDColumn" msprop:Generator_UserColumnName="CreaturesID" type="xs:string" minOccurs="0" />
+              <xs:element name="CampaingID" msprop:Generator_ColumnVarNameInTable="columnCampaingID" msprop:Generator_ColumnPropNameInRow="CampaingID" msprop:Generator_ColumnPropNameInTable="CampaingIDColumn" msprop:Generator_UserColumnName="CampaingID" type="xs:string" minOccurs="0" />
+              <xs:element name="CreatureName" msprop:Generator_ColumnVarNameInTable="columnCreatureName" msprop:Generator_ColumnPropNameInRow="CreatureName" msprop:Generator_ColumnPropNameInTable="CreatureNameColumn" msprop:Generator_UserColumnName="CreatureName" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Npc" msprop:Generator_TableClassName="NpcDataTable" msprop:Generator_TableVarName="tableNpc" msprop:Generator_TablePropName="Npc" msprop:Generator_RowDeletingName="NpcRowDeleting" msprop:Generator_RowChangingName="NpcRowChanging" msprop:Generator_RowEvHandlerName="NpcRowChangeEventHandler" msprop:Generator_RowDeletedName="NpcRowDeleted" msprop:Generator_UserTableName="Npc" msprop:Generator_RowChangedName="NpcRowChanged" msprop:Generator_RowEvArgName="NpcRowChangeEvent" msprop:Generator_RowClassName="NpcRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="NpcID" msprop:Generator_ColumnVarNameInTable="columnNpcID" msprop:Generator_ColumnPropNameInRow="NpcID" msprop:Generator_ColumnPropNameInTable="NpcIDColumn" msprop:Generator_UserColumnName="NpcID" type="xs:string" minOccurs="0" />
+              <xs:element name="CampaingID" msprop:Generator_ColumnVarNameInTable="columnCampaingID" msprop:Generator_ColumnPropNameInRow="CampaingID" msprop:Generator_ColumnPropNameInTable="CampaingIDColumn" msprop:Generator_UserColumnName="CampaingID" type="xs:string" minOccurs="0" />
+              <xs:element name="AdventureID" msprop:Generator_ColumnVarNameInTable="columnAdventureID" msprop:Generator_ColumnPropNameInRow="AdventureID" msprop:Generator_ColumnPropNameInTable="AdventureIDColumn" msprop:Generator_UserColumnName="AdventureID" type="xs:string" minOccurs="0" />
+              <xs:element name="Apperance" msprop:Generator_ColumnVarNameInTable="columnApperance" msprop:Generator_ColumnPropNameInRow="Apperance" msprop:Generator_ColumnPropNameInTable="ApperanceColumn" msprop:Generator_UserColumnName="Apperance" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Adventures" msprop:Generator_TableClassName="AdventuresDataTable" msprop:Generator_TableVarName="tableAdventures" msprop:Generator_TablePropName="Adventures" msprop:Generator_RowDeletingName="AdventuresRowDeleting" msprop:Generator_RowChangingName="AdventuresRowChanging" msprop:Generator_RowEvHandlerName="AdventuresRowChangeEventHandler" msprop:Generator_RowDeletedName="AdventuresRowDeleted" msprop:Generator_UserTableName="Adventures" msprop:Generator_RowChangedName="AdventuresRowChanged" msprop:Generator_RowEvArgName="AdventuresRowChangeEvent" msprop:Generator_RowClassName="AdventuresRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="AdventureID" msprop:Generator_ColumnVarNameInTable="columnAdventureID" msprop:Generator_ColumnPropNameInRow="AdventureID" msprop:Generator_ColumnPropNameInTable="AdventureIDColumn" msprop:Generator_UserColumnName="AdventureID" type="xs:string" minOccurs="0" />
+              <xs:element name="CampaingID" msprop:Generator_ColumnVarNameInTable="columnCampaingID" msprop:Generator_ColumnPropNameInRow="CampaingID" msprop:Generator_ColumnPropNameInTable="CampaingIDColumn" msprop:Generator_UserColumnName="CampaingID" type="xs:string" minOccurs="0" />
+              <xs:element name="Information" msprop:Generator_ColumnVarNameInTable="columnInformation" msprop:Generator_ColumnPropNameInRow="Information" msprop:Generator_ColumnPropNameInTable="InformationColumn" msprop:Generator_UserColumnName="Information" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="RulesetsKey1">
+      <xs:selector xpath=".//mstns:Rulesets" />
+      <xs:field xpath="mstns:RulesetID" />
+    </xs:unique>
+    <xs:unique name="CampaingsKey1">
+      <xs:selector xpath=".//mstns:Campaings" />
+      <xs:field xpath="mstns:CampaingID" />
+    </xs:unique>
+    <xs:unique name="CreaturesKey1">
+      <xs:selector xpath=".//mstns:Creatures" />
+      <xs:field xpath="mstns:CreaturesID" />
+    </xs:unique>
+    <xs:unique name="NpcKey1">
+      <xs:selector xpath=".//mstns:Npc" />
+      <xs:field xpath="mstns:NpcID" />
+    </xs:unique>
+    <xs:unique name="AdventuresKey1">
+      <xs:selector xpath=".//mstns:Adventures" />
+      <xs:field xpath="mstns:AdventureID" />
+    </xs:unique>
+  </xs:element>
+  <xs:annotation>
+    <xs:appinfo>
+      <msdata:Relationship name="Campaings_Creatures" msdata:parent="Campaings" msdata:child="Creatures" msdata:parentkey="CampaingID" msdata:childkey="CampaingID" msprop:Generator_UserChildTable="Creatures" msprop:Generator_ChildPropName="GetCreaturesRows" msprop:Generator_UserRelationName="Campaings_Creatures" msprop:Generator_ParentPropName="CampaingsRow" msprop:Generator_RelationVarName="relationCampaings_Creatures" msprop:Generator_UserParentTable="Campaings" />
+      <msdata:Relationship name="Rulesets_Campaings" msdata:parent="Rulesets" msdata:child="Campaings" msdata:parentkey="RulesetID" msdata:childkey="RulesetID" msprop:Generator_UserChildTable="Campaings" msprop:Generator_ChildPropName="GetCampaingsRows" msprop:Generator_UserRelationName="Rulesets_Campaings" msprop:Generator_ParentPropName="RulesetsRow" msprop:Generator_RelationVarName="relationRulesets_Campaings" msprop:Generator_UserParentTable="Rulesets" />
+      <msdata:Relationship name="Campaings_Npc" msdata:parent="Campaings" msdata:child="Npc" msdata:parentkey="CampaingID" msdata:childkey="CampaingID" msprop:Generator_UserChildTable="Npc" msprop:Generator_ChildPropName="GetNpcRows" msprop:Generator_UserRelationName="Campaings_Npc" msprop:Generator_ParentPropName="CampaingsRow" msprop:Generator_RelationVarName="relationCampaings_Npc" msprop:Generator_UserParentTable="Campaings" />
+      <msdata:Relationship name="Campaings_Adventures" msdata:parent="Campaings" msdata:child="Adventures" msdata:parentkey="CampaingID" msdata:childkey="CampaingID" msprop:Generator_UserChildTable="Adventures" msprop:Generator_ChildPropName="GetAdventuresRows" msprop:Generator_UserRelationName="Campaings_Adventures" msprop:Generator_ParentPropName="CampaingsRow" msprop:Generator_RelationVarName="relationCampaings_Adventures" msprop:Generator_UserParentTable="Campaings" />
+      <msdata:Relationship name="Adventures_Npc" msdata:parent="Adventures" msdata:child="Npc" msdata:parentkey="AdventureID" msdata:childkey="AdventureID" msprop:Generator_UserChildTable="Npc" msprop:Generator_ChildPropName="GetNpcRows" msprop:Generator_UserRelationName="Adventures_Npc" msprop:Generator_RelationVarName="relationAdventures_Npc" msprop:Generator_UserParentTable="Adventures" msprop:Generator_ParentPropName="AdventuresRow" />
+    </xs:appinfo>
+  </xs:annotation>
+</xs:schema>
