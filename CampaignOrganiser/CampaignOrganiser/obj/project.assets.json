@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Andreas\\Desktop\\own project\\CampaignOrganiser\\CampaignOrganiser\\CampaignOrganiser.csproj",
+      "projectUniqueName": "C:\\Users\\Andreas\\Desktop\\own project\\OwnProject\\CampaignOrganiser\\CampaignOrganiser\\CampaignOrganiser.csproj",
       "projectName": "CampaignOrganiser",
-      "projectPath": "C:\\Users\\Andreas\\Desktop\\own project\\CampaignOrganiser\\CampaignOrganiser\\CampaignOrganiser.csproj",
+      "projectPath": "C:\\Users\\Andreas\\Desktop\\own project\\OwnProject\\CampaignOrganiser\\CampaignOrganiser\\CampaignOrganiser.csproj",
       "packagesPath": "C:\\Users\\Andreas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Andreas\\Desktop\\own project\\CampaignOrganiser\\CampaignOrganiser\\obj\\",
+      "outputPath": "C:\\Users\\Andreas\\Desktop\\own project\\OwnProject\\CampaignOrganiser\\CampaignOrganiser\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Andreas\\AppData\\Roaming\\NuGet\\NuGet.Config",
